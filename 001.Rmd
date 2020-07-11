@@ -1,0 +1,84 @@
+# Nouns
+
+## Instruction
+
+Nouns are words for people, animals, places or things. Here is an example of a noun: "a boy". 
+
+In Arabic, "a boy" is [وَلَد]{.ar}.
+
+Note that in [وَلَد]{.ar}, the [و]{.ar} and [ل]{.ar} have a [fatHah]{.trn} but [د]{.ar} does not have any mark on it. For now, we will pretend that there is a [sukUn]{.trn} on [د]{.ar} so we will pronounce the word as [walad]{.trn}.
+
+Here are some more Arabic nouns:
+
+| English | Arabic |
+|:--------|:-------------------|
+| a boy   | [وَلَد]{.ar}  [walad]{.trn} |
+| a lion  | [أَسَد]{.ar}  [asad]{.trn} |
+| a house | [بَيْت]{.ar}  [bayt]{.trn} |
+| a book  | [كِتَاب]{.ar} [kitAb]{.trn} |
+
+In English we can say "a boy" or "the boy". Arabic does not have a word for "a" but it does have a word for "the".
+
+The word for "the" in Arabic is [اَلْ]{.ar} [al]{.trn}. 
+
+[اَلْ]{.ar} is joined to the noun. So "the boy" is [اَلْوَلَد]{.ar} "al-walad".
+
+If an Arabic noun does not have [اَلْ]{.ar} joined to it then in English we will say the noun with "a".
+
++ [اَلْوَلَد]{.ar} "the boy"
++ [وَلَد]{.ar} "a boy"
+
+Here are the nouns we saw earlier, with [اَلْ]{.ar}:
+
+| Arabic | English |
+|:----------------------|:-----------|
+| [اَلْوَلَد]{.ar}  [al-walad]{.trn} | the boy   |
+| [اَلْأَسَد]{.ar}  [al-asad]{.trn} |  the lion  |
+| [اَلْبَيْت]{.ar}  [al-bayt]{.trn} |  the house |
+| [اَلْكِتَاب]{.ar} [al-kitAb]{.trn} | the book  |
+
+::: {.infobox}
+**NOTE TO INSTRUCTOR**
+
+It seems better to me to leave out [الحروف الشمسية والقمرية]{.ar} for now. It should be okay if the student pronounces [الدراجة]{.ar} as [al-darrAjah]{.trn} instead of [ad-darrAjah]{.trn}. In-shaa-Allah he will become familiar with the correct pronunciation when he reads it fully vowellized [الدَّرَّاجَة]{.ar} and with Quranic tajweed instruction.
+:::
+
+## Vocabulary
+
+Here is a word list to memorize.
+
+| Arabic | English |
+|:----------------------|:--------------|
+|[وَلَد]{.ar}   [walad]{.trn}    | a boy   |
+|[أَسَد]{.ar}   [asad]{.trn}     | a lion   |
+|[بَيْت]{.ar}   [bayt]{.trn}     | a house   |
+|[كِتَاب]{.ar}  [kitAb]{.trn}    | a book   |
+|[قِرْد]{.ar}   [qird]{.trn}     | a monkey   |
+|[كَلْب]{.ar}   [kalb]{.trn}     | a dog   |
+|[قِطَّة]{.ar}   [qiTTah]{.trn}   | a cat   |
+|[سَيَّارَة]{.ar} [sayyArah]{.trn} | a car   |
+|[دَرَّاجَة]{.ar} [darrAjah]{.trn} | a bike   |
+|[مَسْجِد]{.ar}  [masjid]{.trn}   | a masjid   |
+|[تُفَّاحَة]{.ar} [tuffAHah]{.trn} | an apple   |
+|[مَوْزَة]{.ar}  [mawzah]{.trn}   | a banana   |
+|[بُرْتُقَالَة]{.ar} [burtuqAlah]{.trn}   | an orange   |
+|[بَيْضَة]{.ar}  [bayDah]{.trn}   | an egg   |
+|[مَدْرَسَة]{.ar} [madrasah]{.trn} | a school   |
+|[كُرَة]{.ar}   [kurah]{.trn}    | a ball   |
+|[قَلَم]{.ar}   [qalam]{.trn}    | a pen   |
+|[حَدِيقَة]{.ar} [HadIqah]{.trn}  | a garden |
+
+## Drill 1 {-}
+
+::: {.infobox}
+**NOTE TO INSTRUCTOR**
+
+When writing the definite article [ال]{.ar} deliberately leave it without [tackIl]{.trn} in order to get the student familiarized with reading it.
+
+Also, let the student write Arabic without any [tackIl]{.trn} on the letters. We will later ask him to vowelize only disambiguating letters, e.g. [كتبتُ]{.ar} vs [كتبتَ]{.ar}.
+:::
+
+
+Translate from Arabic to English
+
+

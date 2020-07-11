@@ -1,0 +1,59 @@
+# Verbs
+
+Verbs are action words. Here are some examples of verbs:
+
++ rode
++ ate
+
+Here are the verbs in Arabic:
+
+| Arabic | English |
+|:----------|:--------------|
+|[رَكِبَ]{.ar} | he rode |
+|[أَكَلَ]{.ar} | he ate |
+
+Did you notice that in Arabic the verbs all mean "he" did something? This is because in Arabic the word "he" is part of the verb. If we want to say "she rode" or "I rode" or "You rode" the verb is modified. But we will learn all those later in-shaa-Allaah. For now, we will focus on "he" verbs because they are the easiest.
+
+## Sentences with verbs
+
+Here is a sentence with a verb:
+
+"He rode a bike."
+
+Let's see how to say this sentence in Arabic.
+
+The verb "he rode" is [رَكِبَ]{.ar} and the noun "a bike" is [دَرَّاجَة]{.ar}. So our sentence is:
+
+[رَكِبَ الدَّرَّاجَة]{.ar}  
+"He rode a bike."
+
+What if we want to say: "The boy rode the bike"?
+
+In this case we still use the verb [رَكِبَ]{.ar} "he rode". But now, when we put the noun [الوَلَد]{.ar} next to it, we cross out the "he" in "he rode" and say "the boy rode".
+
+[رَكِبَ الوَلَد الدَّرَّاجَة]{.ar}  
+"The boy rode the bike."
+
+Note also that in Arabic the verb usually comes first. Then the person who does the action. And then the other noun.
+
+Let's take a look at a few more examples:
+
+"The boy rode a bike."  
+[رَكِبَ الوَلَد درَّاجَة]{.ar}  
+
+"A boy rode a bike."  
+[رَكِبَ وَلَد درَّاجَة]{.ar}  
+
+"Zayd rode the bike."  
+[رَكِبَ زَيْد الدَّرَّاجَة]{.ar}  
+
+## Vocabulary
+
+he rode
+he ate
+he drank
+he wrote
+he read
+water
+milk
+

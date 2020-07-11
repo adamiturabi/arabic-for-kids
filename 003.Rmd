@@ -1,0 +1,13 @@
+# Prepositions
+
+Prepositions are words like "to", "in", "on", "from".
+
+Here are some Arabic prepositions
+
+| Arabic | English |
+|:----------------|:---------|
+|[إِلَىٰ]{.ar} [ilA]{.trn}  | to |
+|[فِي]{.ar}  [fI]{.trn}   | in |
+|[عَلَىٰ]{.ar} [ealA]{.trn} | on |
+|[مِنْ]{.ar}  [min]{.trn}  | from |
+

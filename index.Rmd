@@ -39,8 +39,12 @@ output:
 documentclass: book
 ---
 
-
 # Introduction {-}
+
+[بسم الله الرحمن الرحيم]{.ar}  
+[الحمد لله والصلاة والسلام على نبينا محمد.]{.ar}  
+[أشهد أن لا إله إلا الله وأشهد أن محمدا عبده ورسوله.]{.ar}  
+[أما بعد:]{.ar}
 
 This course aims to teach Arabic to non-native children
 

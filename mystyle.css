@@ -6,15 +6,20 @@
     src: url('./fonts/UthmanTN1\ Ver10.otf') format('opentype');
 }
 :lang(ar) {
-  /*
   -moz-font-feature-settings:"calt=1, liga=1, clig=1, kern=1";
   -moz-font-feature-settings:"calt", "liga", "clig", "kern";
   -ms-font-feature-settings:"calt", "liga", "clig", "kern";
   -webkit-font-feature-settings:"calt", "liga", "clig", "kern";
   font-feature-settings:"calt", "liga", "clig", "kern";
   text-rendering: optimizeLegibility;
-  */
   font-family: UthmanTahaNaskh, serif;
   font-size: 1.5em;
   line-height: 160%;
+}
+.infobox {
+  padding: 1em 1em 1em 4em;
+  margin-bottom: 10px;
+  border: 2px solid orange;
+  border-radius: 10px;
+  background: #f5f5f5 5px center/3em no-repeat;
 }
