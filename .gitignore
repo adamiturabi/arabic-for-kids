@@ -1,0 +1,7 @@
+*.tex
+*.pdf
+*.aux
+*.out
+*.Rhistory
+_book/
+.Rproj.user

@@ -1,0 +1,20 @@
+
+@font-face {
+    font-family: UthmanTahaNaskh;
+    font-style: normal;
+    font-weight: 400;
+    src: url('./fonts/UthmanTN1\ Ver10.otf') format('opentype');
+}
+:lang(ar) {
+  /*
+  -moz-font-feature-settings:"calt=1, liga=1, clig=1, kern=1";
+  -moz-font-feature-settings:"calt", "liga", "clig", "kern";
+  -ms-font-feature-settings:"calt", "liga", "clig", "kern";
+  -webkit-font-feature-settings:"calt", "liga", "clig", "kern";
+  font-feature-settings:"calt", "liga", "clig", "kern";
+  text-rendering: optimizeLegibility;
+  */
+  font-family: UthmanTahaNaskh, serif;
+  font-size: 1.5em;
+  line-height: 160%;
+}
