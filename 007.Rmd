@@ -1,4 +1,4 @@
-# Verb conjugations
+# Verb conjugations: "I" and "she"
 
 We have learned how to say verbs for "he". Examples:
 
@@ -8,28 +8,24 @@ We have learned how to say verbs for "he". Examples:
 |he rode |[رَكِبَ]{.ar} | 
 |he ate | [أَكَلَ]{.ar} | 
 
-If we want to say "I went" or "you went" or "she went" we have to modify the verb. Here is how we do this:
-
+If we want to say "I went" or "you went" or "she went" we have to modify the verb. Today we will learn how to say "I" and "she" verbs. In-shaa-Allah next time we will kearn how to say "you" verbs.
 
 | English | Arabic |
 |:--------------------|:--------------|
 |he went           |[ذَهَبَ]{.ar} | 
 |she went          | [ذَهَبَتْ]{.ar} |
 |I went            | [ذَهَبْتُ]{.ar} |
-|you^(boy)^ went   | [ذَهَبْتَ]{.ar} |
-|you^(girl)^ went  | [ذَهَبْتِ]{.ar} |
 
-Did you notice that Arabic has two verbs for "you". One is for if you are talking to a boy and the other is if you are talking to a girl.
+Examples:
 
-So if you say to a boy: "You went to the masjid", you would say:
+[ذَهَبَ إِلَى المَسْجِد.]{.ar}  
+"He went to the masjid."
 
-[ذَهَبْتَ إِلَى المَسْجِد.]{.ar}  
-"You^(boy)^ went to the masjid."
+[ذَهَبَتْ إِلَى المَسْجِد.]{.ar}  
+"She went to the masjid."
 
-However, if you were talking to a girl, you would say:
-
-[ذَهَبْتِ إِلَى المَسْجِد.]{.ar}  
-"You^(girl)^ went to the masjid."
+[ذَهَبَتُ إِلَى المَسْجِد.]{.ar}  
+"I went to the masjid."
 
 These modifications are the same for all verbs. Examples:
 
@@ -81,4 +77,11 @@ and
 
 [ذَهَبَتْ السَّيَّارَة إِلَى المَدْرَسَة.]{.ar}  
 "The car went to the school."
+
+::: {.infobox data-latex="{caution}"}
+**NOTE TO INSTRUCTOR**
+
+I'm not modifying the [sukUn]{.trn} in [ذَهَبَتْ السيارة]{.ar} to a [kasrah]{.trn}: [ذَهَبَتِ السيارة]{.ar}. This is so the student does not confuse it with [ذَهَبْتِ]{.ar} which we will learn next time in-shaa-Allah. It is ok if the student pronounces [pahabat al-sayyArah]{.trn} instead of [pahabati l-sayyArah]{.trn} (or [pahabati s-sayyArah]{.trn}).
+:::
+
 
