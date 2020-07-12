@@ -1,14 +1,22 @@
-# Verb conjugations: "you"
+# Verb conjugations: "you" and "I"
 
-Last time we learned how to say "I" and "she" verbs, in addition to "he" verbs. Today we will learn how to say "you" verbs.
+Last time we learned how to say "she" verbs, in addition to "he" verbs. Today we will learn how to say "you" and "I" verbs.
 
 | English | Arabic |
 |:--------------------|:--------------|
 |he went           |[ذَهَبَ]{.ar} | 
 |she went          | [ذَهَبَتْ]{.ar} |
-|I went            | [ذَهَبْتُ]{.ar} |
 |you^(boy)^ went   | [ذَهَبْتَ]{.ar} |
 |you^(girl)^ went  | [ذَهَبْتِ]{.ar} |
+|I went            | [ذَهَبْتُ]{.ar} |
+
+Example:
+
+[ذَهَبَتُ إِلَى المَسْجِد.]{.ar}  
+"I went to the masjid."
+
+[أَكَلْتُ مَوْزَة.]{.ar}  
+"I ate a banana."
 
 Did you notice that Arabic has two verbs for "you". One is for if you are talking to a boy and the other is if you are talking to a girl.
 

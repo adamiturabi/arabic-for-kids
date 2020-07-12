@@ -7,6 +7,10 @@ verb conjugations:
 additional conjugations:
   She, You (f)
 
+## Pronouns
+
+انا سعيدة for a girl
+
 ## Collective nouns
 
 Use hair as an example:

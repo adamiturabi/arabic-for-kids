@@ -1,4 +1,4 @@
-# Verb conjugations: "I" and "she"
+# Verb conjugations: "she"
 
 We have learned how to say verbs for "he". Examples:
 
@@ -8,13 +8,12 @@ We have learned how to say verbs for "he". Examples:
 |he rode |[رَكِبَ]{.ar} | 
 |he ate | [أَكَلَ]{.ar} | 
 
-If we want to say "I went" or "you went" or "she went" we have to modify the verb. Today we will learn how to say "I" and "she" verbs. In-shaa-Allah next time we will kearn how to say "you" verbs.
+If we want to say "I went" or "you went" or "she went" we have to modify the verb. Today we will learn how to say "she" verbs. In-shaa-Allah next time we will kearn how to say "you" and "I" verbs.
 
 | English | Arabic |
 |:--------------------|:--------------|
 |he went           |[ذَهَبَ]{.ar} | 
 |she went          | [ذَهَبَتْ]{.ar} |
-|I went            | [ذَهَبْتُ]{.ar} |
 
 Examples:
 
@@ -24,13 +23,7 @@ Examples:
 [ذَهَبَتْ إِلَى المَسْجِد.]{.ar}  
 "She went to the masjid."
 
-[ذَهَبَتُ إِلَى المَسْجِد.]{.ar}  
-"I went to the masjid."
-
-These modifications are the same for all verbs. Examples:
-
-[أَكَلْتُ مَوْزَة.]{.ar}  
-"I ate a banana."
+These modifications are the same for all verbs. Example:
 
 [رَكِبَتْ دَرَّاجَة.]{.ar}  
 "She rode a bike."
