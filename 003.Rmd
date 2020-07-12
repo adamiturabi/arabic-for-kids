@@ -1,5 +1,7 @@
 # Prepositions
 
+## Instruction
+
 Prepositions are words like "to", "in", "on", "from".
 
 Here are some Arabic prepositions
@@ -11,3 +13,18 @@ Here are some Arabic prepositions
 |[عَلَىٰ]{.ar} [ealA]{.trn} | on |
 |[مِنْ]{.ar}  [min]{.trn}  | from |
 
+Note that [إِلَىٰ]{.ar} and [عَلَىٰ]{.ar} end with [ىٰ]{.ar}: a [yaa]{.trn} with no dots and with a tiny [alif]{.trn} on top of it. This is pronounced like an [alif]{.trn}.
+
+Prepositions come before nouns just like in English. Examples:
+
+[إِلَىٰ المَسْجِد]{.ar}  
+"to the masjid"
+
+[فِي بَيْت]{.ar}  
+"in a house"
+
+[عَلَىٰ كِتَاب]{.ar}  
+"on a book"
+
+[مِنْ الوَلَد]{.ar}  
+"from the boy"

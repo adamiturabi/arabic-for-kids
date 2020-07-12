@@ -37,13 +37,30 @@ Here are the nouns we saw earlier, with [اَلْ]{.ar}:
 | [اَلْبَيْت]{.ar}  [al-bayt]{.trn} |  the house |
 | [اَلْكِتَاب]{.ar} [al-kitAb]{.trn} | the book  |
 
-::: {.infobox}
+::: {.infobox data-latex="{caution}"}
 **NOTE TO INSTRUCTOR**
 
 It seems better to me to leave out [الحروف الشمسية والقمرية]{.ar} for now. It should be okay if the student pronounces [الدراجة]{.ar} as [al-darrAjah]{.trn} instead of [ad-darrAjah]{.trn}. In-shaa-Allah he will become familiar with the correct pronunciation when he reads it fully vowellized [الدَّرَّاجَة]{.ar} and with Quranic tajweed instruction.
 :::
 
 ## Vocabulary
+
+::: {.infobox data-latex="{caution}"}
+**NOTE TO INSTRUCTOR**
+
+The student should maintain a personal dictionary in a notebook. Set aside a few pages for:
+
+1. Nouns
+2. Verbs
+3. Adjectives
+4. Particles
+
+Whenever new vocabulary is given the student should copy the new word and its meaning to his dictionary under the appropriate section.
+
+Our first vocabulary list includes many words and the instructor may wish to give them to the student a few at a time.
+
+If the students have been given Arabic instruction in pre-school they may already be familiar with many of these words.
+:::
 
 Here is a word list to memorize.
 
@@ -70,7 +87,7 @@ Here is a word list to memorize.
 
 ## Drill 1 {-}
 
-::: {.infobox}
+::: {.infobox data-latex="{caution}"}
 **NOTE TO INSTRUCTOR**
 
 When writing the definite article [ال]{.ar} deliberately leave it without [tackIl]{.trn} in order to get the student familiarized with reading it.

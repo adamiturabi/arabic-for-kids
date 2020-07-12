@@ -1,9 +1,10 @@
 
 @font-face {
-    font-family: UthmanTahaNaskh;
+    font-family: ArabicForKidsFont;
     font-style: normal;
     font-weight: 400;
-    src: url('./fonts/UthmanTN1\ Ver10.otf') format('opentype');
+    /*src: url('./fonts/UthmanTN1\ Ver10.otf') format('opentype');*/
+    src: url('./fonts/Scheherazade-Regular.ttf') format('truetype');
 }
 :lang(ar) {
   -moz-font-feature-settings:"calt=1, liga=1, clig=1, kern=1";
@@ -12,8 +13,8 @@
   -webkit-font-feature-settings:"calt", "liga", "clig", "kern";
   font-feature-settings:"calt", "liga", "clig", "kern";
   text-rendering: optimizeLegibility;
-  font-family: UthmanTahaNaskh, serif;
-  font-size: 1.5em;
+  font-family: ArabicForKidsFont, serif;
+  font-size: 1.8em;
   line-height: 160%;
 }
 .infobox {
