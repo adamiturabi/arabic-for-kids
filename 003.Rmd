@@ -28,3 +28,17 @@ Prepositions come before nouns just like in English. Examples:
 
 [مِنْ الوَلَد]{.ar}  
 "from the boy"
+
+::: {.infobox data-latex="{caution}"}
+**NOTE TO INSTRUCTOR**
+
+Notice that we are leaving the [sukUn]{.trn} on [مِنْ]{.ar} even when followed by a [همزة وصل]{.ar}. This is so as not to overburden the student. He may pronounce the phrase as [min al-walad]{.trn} instead of [mina l-walad]{.trn}.
+
+Similarly, the student may pronounce [ilA al-masjid]{.trn} and [fI al-bayt]{.trn} instead of [ila l-masjid]{.trn} and [fi l-bayt]{.trn}.
+:::
+
+We can use prepositions in sentences with verbs as well:
+
+[ذَهَبَ الوَلَد إلَىٰ البَيْت]{.ar}  
+"The boy went to the house."
+

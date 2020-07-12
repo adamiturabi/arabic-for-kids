@@ -68,7 +68,7 @@ Lesson 1 of this course should be suitable for a child of around 8 years of age.
 
 ## Pre-requisites {-}
 
-The student should already know how to read fully vowelized Arabic.
+The student should already know how to read fully vowelized Arabic at a beginner level, i.e., basic [fathah]{.trn}, [kasrah]{.trn}, [Dammah]{.trn}, [caddah]{.trn}, and long vowels. More complicated orthography, like [hamzat al-wasl]{.trn}, is not expected to be known. But it is assumed that the student is getting Quranic [tajwId]{.trn} instruction at the same time elsewhere.
 
 ## Instruction and drills {-}
 
