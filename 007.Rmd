@@ -1,0 +1,84 @@
+# Verb conjugations
+
+We have learned how to say verbs for "he". Examples:
+
+| English | Arabic |
+|:----------|:--------------|
+|he went |[ذَهَبَ]{.ar} | 
+|he rode |[رَكِبَ]{.ar} | 
+|he ate | [أَكَلَ]{.ar} | 
+
+If we want to say "I went" or "you went" or "she went" we have to modify the verb. Here is how we do this:
+
+
+| English | Arabic |
+|:--------------------|:--------------|
+|he went           |[ذَهَبَ]{.ar} | 
+|she went          | [ذَهَبَتْ]{.ar} |
+|I went            | [ذَهَبْتُ]{.ar} |
+|you^(boy)^ went   | [ذَهَبْتَ]{.ar} |
+|you^(girl)^ went  | [ذَهَبْتِ]{.ar} |
+
+Did you notice that Arabic has two verbs for "you". One is for if you are talking to a boy and the other is if you are talking to a girl.
+
+So if you say to a boy: "You went to the masjid", you would say:
+
+[ذَهَبْتَ إِلَى المَسْجِد.]{.ar}  
+"You^(boy)^ went to the masjid."
+
+However, if you were talking to a girl, you would say:
+
+[ذَهَبْتِ إِلَى المَسْجِد.]{.ar}  
+"You^(girl)^ went to the masjid."
+
+These modifications are the same for all verbs. Examples:
+
+[أَكَلْتُ مَوْزَة.]{.ar}  
+"I ate a banana."
+
+[رَكِبَتْ دَرَّاجَة.]{.ar}  
+"She rode a bike."
+
+Now, remember that if we want to say "Zayd went to the masjid", then we use the "he went" verb and cross out the "he"
+
+[ذَهَبَ زَيْد إِلَى المَسْجِد.]{.ar}  
+"Zayd ~~he~~ went to the masjid."  
+"Zayd went to the masjid."
+
+Similarly, if we want to say "Zaynab went to the masjid", then we use the "she went" verb and cross out the "she"
+
+[ذَهَبَتْ زَيْنَب إِلَى المَسْجِد.]{.ar}  
+"Zaynab ~~she~~ went to the masjid."  
+"Zaynab went to the masjid."
+
+Similarly,
+
+[أَكَلَتْ الأُمّ الطَّعَام]{.ar}  
+"The mother ate the food."
+
+### It
+
+Arabic only has verbs for "he" and "she". It doesn't have any word for "it". So if you have sentence in English where an animal or a non-living thing does something, then you check if its noun has a [ة]{.ar}.
+
+If it does not have [ة]{.ar} then we use the "he" verb. If it has a [ة]{.ar} then we use the "she" verb.
+
+For example if you are talking about a dog and you say "It drank the water.", you will say:
+
+[شَرِبَ المَاء.]{.ar}  
+"It drank the water."
+
+and
+
+[شَرِبَ الكَلْب المَاء.]{.ar}  
+"The dog drank the water."
+
+Similarly, if you are talking about a car and you say "It went to the school.", you will say:
+
+[ذَهَبَتْ إِلَى المَدْرَسَة.]{.ar}  
+"It went to the school."
+
+and
+
+[ذَهَبَتْ السَّيَّارَة إِلَى المَدْرَسَة.]{.ar}  
+"The car went to the school."
+

@@ -32,6 +32,7 @@ What if we want to say: "The boy rode the bike"?
 In this case we still use the verb [رَكِبَ]{.ar} "he rode". But now, when we put the noun [الوَلَد]{.ar} next to it, we cross out the "he" in "he rode" and say "the boy rode".
 
 [رَكِبَ الوَلَد الدَّرَّاجَة]{.ar}  
+"The boy ~~he~~ rode the bike."  
 "The boy rode the bike."
 
 Note also that in Arabic the verb usually comes first. Then the person who does the action. And then the other noun.

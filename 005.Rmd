@@ -1,4 +1,43 @@
-# Multiple adjectives without and
+# Multiple adjectives, "and"
+
+In English sometimes we can use multiple adjectives to describe the same noun. For example:
+
+"the big red apple"
+
+We can have multiple adjectives in Arabic as well. We put them both after the noun.
+
+[التُّفَّاحَة الكَبِيرَة الحَمْرَاء]{.ar}  
+"the big red apple"
+
+Sometimes we can put the word "and" between the adjectives:
+
+"a fast and small car"
+
+The Arabic word for and is [وَ]{.ar}. We can use it between adjectives:
+
+[سَيَّارَة سَرِيعَة وَصَغِيرَة]{.ar}  
+"a fast and small car"
+
+Did you notice that [وَ]{.ar} "and" is written right next to the second word without any space? This is the rule for writing [وَ]{.ar} in Arabic.
+
+[وَ]{.ar} can be used with nouns and verbs as well. Examples:
+
+[أَكَلَ زَيْد تُفَّاحَة وَبُرتُقَالَة]{.ar}  
+"Zayd ate an apple and an orange."
+
+[أَكَلَ زَيْد الطَّعَام وَشَرِبَ المَاء]{.ar}  
+"Zayd ate the food and he drank the water."
+
+What if we have more than two items? In English we use commas, and write "and" for the last item.
+
+"He ate an apple, an orange, and a banana."
+
+In Arabic we don't use commas between multiple items. Instead we keep putting [وَ]{.ar}:
+
+[أَكَلَ تُفَّاحَة وَبُرْتُقَالَة وَمَوْزَة]{.ar}  
+"He ate an apple, an orange, and a banana."
+
+## Vocabulary
 
 tall
 short
