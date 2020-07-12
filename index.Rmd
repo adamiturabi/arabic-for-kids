@@ -3,6 +3,7 @@ title: "An Arabic course for non-native children"
 author: "A brother"
 output:
   bookdown::gitbook:
+    split_by: "section"
     pandoc_args: ["--lua-filter=trn.lua"]
     keep_md: yes
     css: mystyle.css
@@ -39,18 +40,27 @@ output:
 documentclass: book
 ---
 
+```{r, setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+options(knitr.table.format = function() {
+  if (knitr::is_latex_output()) 'latex' else 'pandoc'
+})
+```
+
 # Introduction {-}
 
-[بسم الله الرحمن الرحيم]{.ar}  
-[الحمد لله والصلاة والسلام على نبينا محمد.]{.ar}  
-[أشهد أن لا إله إلا الله وأشهد أن محمدا عبده ورسوله.]{.ar}  
-[أما بعد:]{.ar}
+:::{lang=ar dir=rtl}
+بسم الله الرحمن الرحيم  
+الحمد لله والصلاة والسلام على نبينا محمد  
+أشهد أن لا إله إلا الله وأشهد أن محمدا عبده ورسوله  
+أما بعد:
+:::
 
-This course aims to teach Arabic to non-native children
+This course aims to teach Arabic to non-native speaking school children.
 
 ## Approach {-}
 
-We will intially focus more on vocabulary, comprehension, and basic grammar rather than formal grammar. So for example, we will accept as correct:
+We will focus on basic grammar, vocabulary and comprehension. So for example, we will accept as correct:
 
 [فَتَحَ الوَلَد بَاب وَذَهَبَ إِلَىٰ الحَديقَة]{.ar}  
 [fataHa Eal-walad bAb wapahaba EilA Eal-HadIqah]{.trn}
@@ -60,7 +70,11 @@ rather than
 [فَتَحَ الوَلَدُ بَابًا وَذَهَبَ إِلَى الحَديقَة]{.ar}  
 [fataHa l-waladu bAban wapahaba Eila l-HadIqah]{.trn}
 
-Correct case endings, moods, inflection will be introduced later.
+The reason for this is that our goal is for children to be able to parse sentences and read and write at a basic proficiency. Although case endings are essential for an in-depth understanding, and indeed for disambiguation from flexible word order ([ضَرَبَ عمرًا زيدٌ]{.ar}), we feel they are not imperative to understand sentences that follow normal word order. At this basic level, we fear that case endings will introduce additional complexity to a non-native speaking student.
+
+Once the student is at a high-school or college level, they may take an [الآجرومية]{.ar} or similar course for a more complete study of the grammar.
+
+We will however try to introduce the concept of inflection to the student. Perhaps the sound masculine plural inflection in the [marfooe]{.trn} vs other cases will be suitable for this since it is one of the more visible inflections in unvowelized text and the student will get accustomed to seeing it in his supplemental reading.
 
 ## Starting age {-}
 

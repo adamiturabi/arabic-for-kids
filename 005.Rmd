@@ -1,0 +1,12 @@
+# Multiple adjectives without and
+
+tall
+short
+delicious
+he sat
+chair
+desk
+cold
+girl
+man
+

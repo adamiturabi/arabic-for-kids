@@ -1,7 +1,5 @@
 # Prepositions
 
-## Instruction
-
 Prepositions are words like "to", "in", "on", "from".
 
 Here are some Arabic prepositions

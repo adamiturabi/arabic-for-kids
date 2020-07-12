@@ -1,7 +1,5 @@
 # Nouns
 
-## Instruction
-
 Nouns are words for people, animals, places or things. Here is an example of a noun: "a boy". 
 
 In Arabic, "a boy" is [وَلَد]{.ar}.
@@ -85,17 +83,43 @@ Here is a word list to memorize.
 |[قَلَم]{.ar}   [qalam]{.trn}    | a pen   |
 |[حَدِيقَة]{.ar} [HadIqah]{.trn}  | a garden |
 
-## Drill 1 {-}
 
 ::: {.infobox data-latex="{caution}"}
 **NOTE TO INSTRUCTOR**
 
-When writing the definite article [ال]{.ar} deliberately leave it without [tackIl]{.trn} in order to get the student familiarized with reading it.
+In drills, when writing the definite article [ال]{.ar} deliberately leave it without [tackIl]{.trn} in order to get the student familiarized with reading it.
 
 Also, let the student write Arabic without any [tackIl]{.trn} on the letters. We will later ask him to vowelize only disambiguating letters, e.g. [كتبتُ]{.ar} vs [كتبتَ]{.ar}.
 :::
 
+```{r, include=knitr::is_latex_output()}
+knitr::asis_output('\n\n\\pagebreak')
+```
+
+## Drill 1 {-}
 
 Translate from Arabic to English
+Translate from Arabic to English
+
+```{r, include=knitr::is_latex_output()}
+knitr::asis_output('\n\n\\pagebreak')
+```
+
+## Answer key for drill 1 {-}
+
+```{r, include=knitr::is_latex_output()}
+knitr::asis_output('\n\n\\pagebreak')
+```
+
+## Drill 2 {-}
+
+Translate from Arabic to English
+Translate from Arabic to English
+
+```{r, include=knitr::is_latex_output()}
+knitr::asis_output('\n\n\\pagebreak')
+```
+
+## Answer key for drill 2 {-}
 
 

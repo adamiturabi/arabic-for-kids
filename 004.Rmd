@@ -1,0 +1,68 @@
+# Adjectives
+
+Adjectives are words that describe nouns. Here are some adjectives in English:
+
++ big
++ small
++ good
++ fast
+
+We can describe some nouns using these adjectives:
+
++ "a big house"
++ "a small cat"
++ "the good boy"
++ "the fast car"
+
+Here are the Arabic adjectives:
+
+| Arabic | English |
+|:----------|:--------------|
+|[كَبِير]{.ar} | big |
+|[صَغِير]{.ar} | small |
+|[حَسَن]{.ar} | good |
+|[سَرِيع]{.ar} | fast|
+
+In English we put the adjective before the noun, but in Arabic we put the adjective after the noun:
+
+[بَيْت كَبِير]{.ar}  
+"a big house"
+
+[كَلْب صَغِير]{.ar}  
+"a small dog"
+
+However, adjectives are little more complicated in Arabic than in English. In Arabic, if the noun ends with a [ة]{.ar}, then a [ة]{.ar} is added to the adjective as well. For example,
+
+[قِطَّة صَغِيرَة]{.ar}  
+"a small cat"
+
+When adding a [ة]{.ar}, the letter before the [ة]{.ar} always gets a [fatHah]{.trn}.
+
+Adding [ة]{.ar} to the adjective is also done when the noun refers to a girl or a woman, even if the noun does not have a [ة]{.ar}.
+
+"A mother" in Arabic is [أُمّ]{.ar}. If we want to say "a good mother" we will say
+
+[أُمّ حَسَنَة]{.ar}  
+NOT  
+[أُمّ حَسَنَ]{.ar}  
+
+Another rule for adjectives is that if the noun has [ال]{.ar} "the", then the adjective will also have [ال]{.ar}:
+
+[الوَلَد الحَسَن]{.ar}  
+"the good boy" (We still say in English "the good boy", not "the good the boy")
+
+Now how about if the noun has both [ال]{.ar} and [ة]{.ar}? Well, we add both [ال]{.ar} and [ة]{.ar} to the adjective as well:
+
+[السَّيَّارَة السَّرِيعَة]{.ar}  
+"the fast car"
+
+### Vocabulary
+
+big
+small
+fast
+good
+beautiful
+mother
+tree
+flower

@@ -1,0 +1,82 @@
+# Colors
+
+Colors are adjectives. Just like you can say "a fast car" you can also say "a red car".
+
+Here are some colors in Arabic:
+
+|Arabic  |English |
+|:------------ |:------------|
+|[بُنِّيّ]{.ar}    | brown   |
+|[بُرْتُقَالِيّ]{.ar}| orange   |
+|[بَنَفْسَجِيّ]{.ar} | purple   |
+|[وَرْدِيّ]{.ar}   | pink   |
+|[أَحْمَر]{.ar}   | red   |
+|[أَخْضَر]{.ar}   | green   |
+|[أَصْفَر]{.ar}   | yellow   |
+|[أَزْرَق]{.ar}   | blue   |
+|[أَسْوَد]{.ar}   | black   |
+|[أَبْيَض]{.ar}   | white   |
+
+When using colors to describe nouns, then as we have already learned, if the noun has [ال]{.ar} then we add [ال]{.ar} to the color as well. Examples:
+
+[كِتَاب أَحْمَر]{.ar}  
+"a red book"
+
+[الكِتَاب الأَحْمَر]{.ar}  
+"the red book"
+
+[قَلَم بُرْتُقَالِيّ]{.ar}  
+"an orange pen"
+
+[القَلَم البُرْتُقَالِيّ]{.ar}  
+"the orange pen"
+
+Did you notice that the words for the colors in Arabic are in two groups:
+
+1. Those that end in [ـِيّ]{.ar} :
+   + [بُنِّيّ]{.ar}    
+   + [بُرْتُقَالِيّ]{.ar}
+   + [بَنَفْسَجِيّ]{.ar} 
+   + [وَرْدِيّ]{.ar}
+2. Those that are all in the same pattern like:
+   + [أَحْمَر]{.ar}
+   + [أَخْضَر]{.ar}
+   + [أَصْفَر]{.ar}
+   + [أَزْرَق]{.ar}
+   + [أَسْوَد]{.ar}
+   + [أَبْيَض]{.ar}
+
+Each of these groups is treated differently when using them to describe nouns that end in [ة]{.ar}
+
+The first group that ends in [ـِيّ]{.ar} is treated the same way as we have already studied: If the noun has [ة]{.ar}, then we add [ة]{.ar} to the adjective as well. For example:
+
+[زَهْرَة وَرْدِيَّة]{.ar}  
+"a pink flower"
+
+[السَّيَّارَة البُنِّيَّة]{.ar}  
+"the brown car"
+
+For the second group, when the noun ends with [ة]{.ar}, then we modify the colors in a different way:
+
+   + [أَحْمَر]{.ar} becomes [حَمْرَاء]{.ar}
+   + [أَخْضَر]{.ar} becomes [خَضْرَاء]{.ar}
+   + [أَصْفَر]{.ar} becomes [صَفْرَاء]{.ar}
+   + [أَزْرَق]{.ar} becomes [زَرْقَاء]{.ar}
+   + [أَسْوَد]{.ar} becomes [سَوْدَاء]{.ar}
+   + [أَبْيَض]{.ar} becomes [بَيْضَاء]{.ar}
+
+Note that they are all modified in the same pattern.
+
+So now we can say:
+
+[زَهْرَة حَمْرَاء]{.ar}  
+"a red flower"
+
+[السَّيَّارَة الزَّرْقَاء]{.ar}  
+"the blue car"
+
+By the way, remember that nouns for girls and women are treated like they have [ة]{.ar} even if they don't actually have [ة]{.ar}. For example
+
+[بِنْت حَمْرَاء]{.ar}  
+"a red girl"
+
