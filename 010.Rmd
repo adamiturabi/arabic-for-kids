@@ -24,7 +24,7 @@ When we say "she ran" we drop the [ىٰ]{.ar} and say [جَرَتْ]{.ar} [jarat
 
 And when we say "you ran" and "I ran" the [ىٰ]{.ar} becomes a normal [ي]{.ar} with a sukoon. Example:
 
-[جَرَيْتَ في الحَدِيقَة]{.ar}
+[جَرَيْتَ في الحَدِيقَة]{.ar}  
 "You ran in the garden."
 
 Another verb just like [جَرَىٰ]{.ar} "he ran" is [رَأَىٰ]{.ar} "he saw"
