@@ -1,0 +1,39 @@
+# Verbs "run" and "see"
+
+Today we will learn two new verbs: "he ran" and "he saw".
+
+The verb "he ran" is [جَرَىٰ]{.ar}. It has a [ىٰ]{.ar} at the end which is pronounced like an [ا]{.ar}, just like in [إِلَىٰ]{.ar} and [عَلَىٰ]{.ar}.
+
+[جَرَىٰ زَيْد فِي الحَدِيقَة.]{.ar}  
+"Zayd ran in the garden."
+
+Let's see how to say "she ran", "you ran" and "I ran".
+
+| English | Arabic |
+|:--------------------|:--------------|
+|he ran           | [جَرَىٰ]{.ar} | 
+|she ran          | [جَرَتْ]{.ar} |
+|you^(boy)^ ran   | [جَرَيْتَ]{.ar} |
+|you^(girl)^ ran  | [جَرَيْتِ]{.ar} |
+|I ran            | [جَرَيْتُ]{.ar} |
+
+When we say "she ran" we drop the [ىٰ]{.ar} and say [جَرَتْ]{.ar} [jarat]{.trn}.
+
+[جَرَتْ البِنْتُ في الحَدِيقَة]{.ar}  
+"The girl ran in the garden."
+
+And when we say "you ran" and "I ran" the [ىٰ]{.ar} becomes a normal [ي]{.ar} with a sukoon. Example:
+
+[جَرَيْتَ في الحَدِيقَة]{.ar}
+"You ran in the garden."
+
+Another verb just like [جَرَىٰ]{.ar} "he ran" is [رَأَىٰ]{.ar} "he saw"
+
+| English | Arabic |
+|:--------------------|:--------------|
+|he saw           | [رَأَىٰ]{.ar} | 
+|she saw          | [رَأَتْ]{.ar} |
+|you^(boy)^ saw   | [رَأَيْتَ]{.ar} |
+|you^(girl)^ saw  | [رَأَيْتِ]{.ar} |
+|I saw            | [رَأَيْتُ]{.ar} |
+

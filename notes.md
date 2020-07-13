@@ -11,11 +11,16 @@ yes/no questions
 what and who questions
 this/that is
 subject is adjective sentence
-separate pronouns
+detached pronouns
 fa
 iDaafah
 attached pronouns
 this/that noun
+laysa
+kaana
+imperfect
+plural nouns
+  sound/broken
 
 ## Pronouns
 

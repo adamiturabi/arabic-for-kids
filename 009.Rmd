@@ -1,0 +1,43 @@
+# "with", "above", and "under"
+
+### "with" {-}
+
+The word for "with" in Arabic is [ب]{.ar}.
+
+[ب]{.ar} comes before a word and is joined to it. For example:
+
+[كُرَة]{.ar}  
+"a ball"
+
+[بِكُرَة]{.ar}  
+"with a ball"
+
+If a word has [ال]{.ar} then [ب]{.ar} is joined to the [ال]{.ar}.
+
+[الكُرَة]{.ar}  
+"a ball"
+
+[بِالكُرَة]{.ar}  
+"with a ball"
+
+[ب]{.ar} is joined to the [ال]{.ar}.When [ب]{.ar} is joined to [ال]{.ar}, we don't pronounce the [ا]{.ar} in [ال]{.ar}
+
+[بِالكُرَة]{.ar} is pronounced [bil-kurah]{.trn}.
+
+We can use [ب]{.ar} in a sentence:
+
+[لَعِبَ زَيْد بِالكُرَة الصَّغِيرَة]{.ar}  
+"Zayd played with the small ball."
+
+### "above" and "under" {-}
+
+The word for above is [فَوْقَ]{.ar}.
+
+[فَوْقَ الشَّجَرَة]{.ar}  
+"above the tree."
+
+Similarly, the word for under is [تَحْتَ]{.ar}.
+
+[تَحْتَ الشَّجَرَة]{.ar}  
+"under the tree."
+

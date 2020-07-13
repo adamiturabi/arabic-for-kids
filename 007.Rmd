@@ -45,7 +45,7 @@ Similarly,
 [أَكَلَتْ الأُمّ الطَّعَام]{.ar}  
 "The mother ate the food."
 
-### It
+### It {-}
 
 Arabic only has verbs for "he" and "she". It doesn't have any word for "it". So if you have sentence in English where an animal or a non-living thing does something, then you check if its noun has a [ة]{.ar}.
 
