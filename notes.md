@@ -69,7 +69,7 @@ a cake's piece
 
 In this case, still look at the last word. If it has al write "the". else write "a".
 
-then this time, follow the order of 1st word then 2nd word
+then this time, follow the order of 1st word then 2nd word and connect wit "of" not with ('s).
 
 a cup of milk
 
