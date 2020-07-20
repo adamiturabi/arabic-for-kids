@@ -1,0 +1,47 @@
+# This, What?, Who?
+
+Let's see how to say the sentence "This is a man."
+
+The word for "this" is [هَـٰذَا]{.ar}. It is pronounced [hApA]{.trn}.
+
+In Arabic we usually don't write any word for "is". So then we can say:
+
+[هَـٰذَا رَجُل]{.ar}  
+"This is a man."
+
+Let's see now how to say "This is a girl." When we are talking about a girl, or a noun that has [ة]{.ar} we don't use [هَـٰذَا]{.ar}. Instead we use [هَـٰذِهِ]{.ar} [hApihi]{.trn}.
+
+[هَـٰذِهِ بِنْت]{.ar}  
+"This is a girl."
+
+[هَـٰذِهِ قِطَّة]{.ar}  
+"This is a cat."
+
+[هَـٰذَا كَلْب]{.ar}  
+"This is a dog."
+
+### Questions {-}
+
+We can ask a question "What is this?" The word for "What" is [مَا]{.ar}. Again, we don't write any word for "is". 
+
+So if we are asking about noun which does not have [ة]{.ar} then we say:
+
+[مَا هَـٰذَا؟ هَـٰذَا كَلْب]{.ar}  
+"What is this? This is a dog."
+
+But if we are asking about a noun which has [ة]{.ar} then we say:
+
+[مَا هَـٰذِهِ؟ هَـٰذِهِ شَجَرَة]{.ar}  
+"What is this? This is a tree."
+
+Now if we are talking about a person, then we don't say "What is this?" Instead we say, "Who is this?"
+
+The word for "who" is [مَنْ]{.ar}.
+
+
+[مَنْ هَـٰذَا؟ هَـٰذَا رَجُل]{.ar}  
+"Who is this? This is a man."
+
+[مَنْ هَـٰذِهِ؟ هَـٰذِهِ بِنْت]{.ar}  
+"Who is this? This is a girl."
+
