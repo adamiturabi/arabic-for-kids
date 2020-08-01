@@ -18,22 +18,7 @@ We can also use proper nouns:
 [المَرْأَة زَيْنَب]{.ar}  
 "The woman is Zaynab."
 
-We have learned that Arabic doesn't have a word for "is". So if we want to say "This is a toy", we will say,
-
-[هَذِهِ لُعْبَة]{.ar}  
-"This is a toy."
-
-We can replace "this" with a noun:
-
-[الكُرَة لُعْبَة]{.ar}  
-"The ball is a toy."
-
-We can also use proper nouns:
-
-[زَيْدٌ وَلَدٌ]{.ar}
-
-
-Now we will learn how to say sentences like "The man is big."
+Now we will learn how to say sentences with adjectives like "The man is big."
 
 First we write the word for "the man"[الرَّجُل]{.ar}. Then we don't write any word for "is". And, finally, we write the adjective [كَبِير]{.ar} "big" without [ال]{.ar}.
 
@@ -47,4 +32,18 @@ How about "The woman is big."? Now we will use the adjective [كَبِيرَة]{
 
 We can have proper nouns as well:
 
-[زَيْدٌ 
+[زَيْدٌ كَبِير]{.ar}  
+"Zayd is big."
+
+[زَيْنَب كَبِيرَة]{.ar}  
+"Zaynab is big."
+
+We can also use colors as adjectives:
+
+[الكِتَاب أَحْمَر]{.ar}  
+"The book is red."
+
+[الكُرَة حَمْرَاء]{.ar}  
+"The ball is red."
+
+
