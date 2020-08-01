@@ -1,0 +1,50 @@
+# Nominal sentence
+
+We have learned that Arabic doesn't have a word for "is". So if we want to say "This is a man", we will say,
+
+[هَذِهِ مَرْأَة]{.ar}  
+"This is a woman."
+
+We can replace "this" with a noun:
+
+[الأُمّ مَرْأَة]{.ar}  
+"The mother is a woman."
+
+We can also use proper nouns:
+
+[زَيْنَب مَرْأَة]{.ar}  
+"Zaynab is a woman."
+
+[المَرْأَة زَيْنَب]{.ar}  
+"The woman is Zaynab."
+
+We have learned that Arabic doesn't have a word for "is". So if we want to say "This is a toy", we will say,
+
+[هَذِهِ لُعْبَة]{.ar}  
+"This is a toy."
+
+We can replace "this" with a noun:
+
+[الكُرَة لُعْبَة]{.ar}  
+"The ball is a toy."
+
+We can also use proper nouns:
+
+[زَيْدٌ وَلَدٌ]{.ar}
+
+
+Now we will learn how to say sentences like "The man is big."
+
+First we write the word for "the man"[الرَّجُل]{.ar}. Then we don't write any word for "is". And, finally, we write the adjective [كَبِير]{.ar} "big" without [ال]{.ar}.
+
+[الرَّجُل كَبِير]{.ar}  
+"The man is big."
+
+How about "The woman is big."? Now we will use the adjective [كَبِيرَة]{.ar} with [ة]{.ar}.
+
+[المَرْأَة كَبِيرَة]{.ar}  
+"The woman is big."
+
+We can have proper nouns as well:
+
+[زَيْدٌ 
