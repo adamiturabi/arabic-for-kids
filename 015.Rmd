@@ -33,9 +33,7 @@ Question:
 When translating from Arabic to English, first ignore the word [هَلْ]{.ar} and translate with a questioning tone. Then reform the question into better English. For example:
 
 [هَلْ أَنْتَ قَرِيب؟]{.ar}  
-"You are near?"  
-"Are you near?"
+"You are near?" = "Are you near?"
 
 [هَلْ ذَهَبَ إِلَى البَيْت؟]{.ar}  
-"He went to the house?"  
-"Did he go to the house?"
+"He went to the house?" = "Did he go to the house?"
