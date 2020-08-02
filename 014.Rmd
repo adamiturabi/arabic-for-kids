@@ -1,0 +1,28 @@
+# Detached pronouns, so
+
+## Detached pronouns
+
+In this chapter we will learn how to say pronouns. Here are the pronouns in Arabic.
+
+| English | Arabic |
+|:--------|:--------|
+|He         |[هُوَ]{.ar} |
+|She        |[هِيَ]{.ar} |
+|I          |[أَنَا]{.ar} |
+|You^(boy)^ |[أَنْتَ]{.ar} |
+|You^(girl)^|[أَنْتِ]{.ar} |
+
+"I" [أَنَا]{.ar} is always pronounced [Eana]{.trn} not [EanA]{.trn}
+
+Examples:
+
+## So
+
+The Arabic word for "so" is [فَ]{.ar}. It is always joined to the word after it.
+
+[ذَهَبَ الوَلَد إِلَى ال]
+
+[رَأَىٰ الوَلَد الكُرَة فِي الحَدِيقَة فَلَعِبَ بِالكُرَة]{.ar}  
+"Zayd saw the ball in the garden so he played with the ball."
+
+[فَهُوَ]{.ar}

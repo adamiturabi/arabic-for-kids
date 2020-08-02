@@ -1,0 +1,17 @@
+# The possessive 2 (of)
+
+In English we can use the word "of" in expressions like:
+
++ "a cup of water"
++ "the box of cereal"
+
+In Arabic we again place the nouns together but now we don't reverse the order of the two nouns. And again, only the second noun gets [ال]{.ar} for "the". Here are the Arabic for the above examples:
+
+|Arabic | English |
+|:----------|:--------------|
+|[كُوب-مَاء]{.ar}   |"a cup of water"    |
+|[عُلْبَة-حُبُوب]{.ar} |"the box of cereal"    |
+
+So in English if you have two nouns connected with "'s" or "of", in Arabic we write the expression the same way, but the order is different. But in both cases, the [ال]{.ar}, if any, is added to the last Arabic word.
+
++ "'s": reverse order

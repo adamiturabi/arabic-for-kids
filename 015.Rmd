@@ -1,0 +1,45 @@
+# The possessive 1 ('s)
+
+In English we can say 
+
++ "a boy's book"
++ "the woman's house"
++ "Zayd's school"
+
+In Arabic we simply place the nouns together but we reverse the order of the two nouns. And only the second noun gets [ال]{.ar} for "the". Here are the Arabic for the above examples:
+
+|Arabic | English |
+|:----------|:--------------|
+|[كِتَاب-وَلَد]{.ar}   |"a boy's book"       |
+|[بَيْت-المَرْأَة]{.ar} |"the woman's house"  |
+|[مَدْرَسَة-زَيْد]{.ar}  |"Zayd's school"      |
+
+For now we will put a hyphen "-" between the words which are connected with "'s".
+
+::: {.infobox data-latex="{caution}"}
+**NOTE TO INSTRUCTOR**
+We're using a hyphen because two nouns can occur next to each other without being a possessive, e.g., [رَأَتْ أُمّ وَلَد]{.ar} which, without case endings can be either
+
++ "A woman saw a boy.", or
++ "She saw a boy's mother."
+
+So without introducing case endings we think it will be easier to facilitate recognition of the possessive, at least where there is ambiguity.
+:::
+
+
+
+Also, we we say [مَدْرَسَة-زَيْد]{.ar} we will pronounce it [madrasat zayd]{.trn} not [madrasah zayd]{.trn}.
+
+So when translating from Arabic to English, if you see two nouns together with a hyphen "-" between them, you should translate them with ('s).
+
+Start with last noun. if it has [ال]{.ar} then write "the". Then go backwards and connect nouns with ('s).
+
+[سَيَّارَة-الرُّجُل]{.ar}  
+"the man's car"
+
+[سَيَّارَة-رَجُل]{.ar}  
+"a man's car"
+
+
+
+
