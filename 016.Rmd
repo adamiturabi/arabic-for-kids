@@ -1,4 +1,4 @@
-# The possessive 2 (of)
+# The possessive (Part II: of)
 
 In English we can use the word "of" in expressions like:
 
@@ -10,8 +10,24 @@ In Arabic we again place the nouns together but now we don't reverse the order o
 |Arabic | English |
 |:----------|:--------------|
 |[كُوب-مَاء]{.ar}   |"a cup of water"    |
-|[عُلْبَة-حُبُوب]{.ar} |"the box of cereal"    |
+|[عُلْبَة-الحُبُوب]{.ar} |"the box of cereal"    |
 
-So in English if you have two nouns connected with "'s" or "of", in Arabic we write the expression the same way, but the order is different. But in both cases, the [ال]{.ar}, if any, is added to the last Arabic word.
+Note that even the english was "**the box** of cereal", in Arabic we will but [ال]{.ar} with the last noun: [عُلْبَة-الحُبُوب]{.ar}
+
+To summarize, in English if you have two nouns connected with "'s" or "of", in Arabic we write the expression the same way, but the order is different. But in both cases, the [ال]{.ar}, if any, is added to the last Arabic word.
 
 + "'s": reverse order
++ "of": keep same order
+
+Translating from Arabic to English, sometimes you can use either "'s" or "of". For example, "the book of the man", and "the man's book" mean more or less the same thing. But to make it simple, we will use "of" for quantites (of foods for example) and materials.
+
+So we will [كِتَاب الرَّجُل]{.ar} as "the man's book" and keep "of" for "a cup of water" or "a piece of cake" or "the ring of gold" etc.
+
+::: {.infobox data-latex="{caution}"}
+**NOTE TO INSTRUCTOR**
+
+Consider [رأسُ رجلٍ كبيرٌ]{.ar}
+
+An idiomatic English translation is "the big head of a man". The "the" is because a man has only one head. But in Arabic [رأس]{.ar} is technically indefinite. So inorder to simplify the student, we sacrifice idiom for simplicity and instruct the student to translate as "A man's big head". By the way, we're not teaching adjective's with idaafah just yet, but we're thinking ahead and trying to stay simple and consistent.
+:::
+

@@ -1,4 +1,4 @@
-# The possessive 1 ('s)
+# The possessive (Part I: 's)
 
 In English we can say 
 
@@ -18,6 +18,7 @@ For now we will put a hyphen "-" between the words which are connected with "'s"
 
 ::: {.infobox data-latex="{caution}"}
 **NOTE TO INSTRUCTOR**
+
 We're using a hyphen because two nouns can occur next to each other without being a possessive, e.g., [رَأَتْ أُمّ وَلَد]{.ar} which, without case endings can be either
 
 + "A woman saw a boy.", or
@@ -25,8 +26,6 @@ We're using a hyphen because two nouns can occur next to each other without bein
 
 So without introducing case endings we think it will be easier to facilitate recognition of the possessive, at least where there is ambiguity.
 :::
-
-
 
 Also, we we say [مَدْرَسَة-زَيْد]{.ar} we will pronounce it [madrasat zayd]{.trn} not [madrasah zayd]{.trn}.
 
@@ -40,6 +39,24 @@ Start with last noun. if it has [ال]{.ar} then write "the". Then go backwards 
 [سَيَّارَة-رَجُل]{.ar}  
 "a man's car"
 
+[سَيَّارَة زَيْد]{.ar}  
+"Zayd's car"
 
+By the way we can add more nouns connected with "'s":
 
+[مِفْتَاح بَاب بَيْت رَجُل]{.ar}  
+"a man's house's door's key"
+
+[مِفْتَاح بَاب بَيْت الرَّجُل]{.ar}  
+"the man's house's door's key"
+
+Note that [ال]{.ar} is added only to the last noun.
+
+::: {.infobox data-latex="{caution}"}
+**NOTE TO INSTRUCTOR**
+
+It may be more idiomatic in English to say "The key of the door of the house of the man". But it will be hard to explain to the student how the multiple "the's" in English are translated.
+
+And in the next chapter, for simplicity, we will reserve "of" for quantities and materials.
+:::
 
