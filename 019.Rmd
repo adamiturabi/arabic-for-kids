@@ -1,0 +1,27 @@
+# Attached pronouns for possessive
+
+iIn this chapter we will learn how to say "my", "your", "his", and "her". In Arabic we express this by attaching a suffix to the last part of the noun. Examples:
+
+|English | Arabic |
+|:----------|:--------------|
+|His book          |[كِتَابُهُ]{.ar} |
+|Her book          |[كِتَابُهَا]{.ar} |
+|Your^(boy)^ book  |[كِتَابُكَ]{.ar} |
+|Your^(girl)^ book |[كِتَابُكِ]{.ar} |
+|My book           |[كِتَابِي]{.ar} |
+
+For now we will put a [Dammah]{.trn} before adding the suffix, except for "my".
+
+For nouns that end with [ة]{.ar}, it is converted to a regular [ت]{.ar} when adding the suffix.
+
+Let's see how to say these for the noun [حَقِيبَة]{.ar} "bag".
+
+|English | Arabic |
+|:----------|:--------------|
+|His bag          |[حَقِيبَتُهُ]{.ar} |
+|Her bag          |[حَقِيبَتُهَا]{.ar} |
+|Your^(boy)^ bag  |[حَقِيبَتُكَ]{.ar} |
+|Your^(girl)^ bag |[حَقِيبَتُكِ]{.ar} |
+|My bag           |[حَقِيبَتِي]{.ar} |
+
+

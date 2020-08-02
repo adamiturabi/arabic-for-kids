@@ -1,27 +1,62 @@
-# Attached pronouns for possessive
+# The possessive (Part I: 's)
 
-iIn this chapter we will learn how to say "my", "your", "his", and "her". In Arabic we express this by attaching a suffix to the last part of the noun. Examples:
+In English we can say 
 
-|English | Arabic |
++ "a boy's book"
++ "the woman's house"
++ "Zayd's school"
+
+In Arabic we simply place the nouns together but we reverse the order of the two nouns. And only the second noun gets [ال]{.ar} for "the". Here are the Arabic for the above examples:
+
+|Arabic | English |
 |:----------|:--------------|
-|His book          |[كِتَابُهُ]{.ar} |
-|Her book          |[كِتَابُهَا]{.ar} |
-|Your^(boy)^ book  |[كِتَابُكَ]{.ar} |
-|Your^(girl)^ book |[كِتَابُكِ]{.ar} |
-|My book           |[كِتَابِي]{.ar} |
+|[كِتَاب-وَلَد]{.ar}   |"a boy's book"       |
+|[بَيْت-المَرْأَة]{.ar} |"the woman's house"  |
+|[مَدْرَسَة-زَيْد]{.ar}  |"Zayd's school"      |
 
-For now we will put a [Dammah]{.trn} before adding the suffix, except for "my".
+For now we will put a hyphen "-" between the words which are connected with "'s".
 
-For nouns that end with [ة]{.ar}, it is converted to a regular [ت]{.ar} when adding the suffix.
+::: {.infobox data-latex="{caution}"}
+**NOTE TO INSTRUCTOR**
 
-Let's see how to say these for the noun [حَقِيبَة]{.ar} "bag".
+We're using a hyphen because two nouns can occur next to each other without being a possessive, e.g., [رَأَتْ أُمّ وَلَد]{.ar} which, without case endings can be either
 
-|English | Arabic |
-|:----------|:--------------|
-|His bag          |[حَقِيبَتُهُ]{.ar} |
-|Her bag          |[حَقِيبَتُهَا]{.ar} |
-|Your^(boy)^ bag  |[حَقِيبَتُكَ]{.ar} |
-|Your^(girl)^ bag |[حَقِيبَتُكِ]{.ar} |
-|My bag           |[حَقِيبَتِي]{.ar} |
++ "A woman saw a boy.", or
++ "She saw a boy's mother."
 
+So without introducing case endings we think it will be easier to facilitate recognition of the possessive, at least where there is ambiguity.
+:::
+
+Also, we we say [مَدْرَسَة-زَيْد]{.ar} we will pronounce it [madrasat zayd]{.trn} not [madrasah zayd]{.trn}.
+
+So when translating from Arabic to English, if you see two nouns together with a hyphen "-" between them, you should translate them with ('s).
+
+Start with last noun. if it has [ال]{.ar} then write "the". Then go backwards and connect nouns with ('s).
+
+[سَيَّارَة-الرُّجُل]{.ar}  
+"the man's car"
+
+[سَيَّارَة-رَجُل]{.ar}  
+"a man's car"
+
+[سَيَّارَة زَيْد]{.ar}  
+"Zayd's car"
+
+By the way we can add more nouns connected with "'s":
+
+[مِفْتَاح بَاب بَيْت رَجُل]{.ar}  
+"a man's house's door's key"
+
+[مِفْتَاح بَاب بَيْت الرَّجُل]{.ar}  
+"the man's house's door's key"
+
+Note that [ال]{.ar} is added only to the last noun.
+
+::: {.infobox data-latex="{caution}"}
+**NOTE TO INSTRUCTOR**
+
+It may be more idiomatic in English to say "The key of the door of the house of the man". But it will be hard to explain to the student how the multiple "the's" in English are translated.
+
+And in the next chapter, for simplicity, we will reserve "of" for quantities and materials.
+:::
 

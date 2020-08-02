@@ -1,33 +1,59 @@
-# The possessive (Part II: of)
+# More questions
 
-In English we can use the word "of" in expressions like:
+We have learned that [مَا]{.ar} "what" and [مَنْ]{.ar} "who" can be used to ask questions.
 
-+ "a cup of water"
-+ "the box of cereal"
+[مَا هَذَا؟ هَذَا كِتَاب.]{.ar}  
+"What is this? This is a book."
 
-In Arabic we again place the nouns together but now we don't reverse the order of the two nouns. And again, only the second noun gets [ال]{.ar} for "the". Here are the Arabic for the above examples:
 
-|Arabic | English |
-|:----------|:--------------|
-|[كُوب-مَاء]{.ar}   |"a cup of water"    |
-|[عُلْبَة-الحُبُوب]{.ar} |"the box of cereal"    |
+[مَنْ هَذِهِ؟ هَذَا مَرْأَة.]{.ar}  
+"Who is this? This is a woman."
 
-Note that even the english was "**the box** of cereal", in Arabic we will but [ال]{.ar} with the last noun: [عُلْبَة-الحُبُوب]{.ar}
+Arabic also has another word for "what": [مَاذَا]{.ar}. 
 
-To summarize, in English if you have two nouns connected with "'s" or "of", in Arabic we write the expression the same way, but the order is different. But in both cases, the [ال]{.ar}, if any, is added to the last Arabic word.
+[مَاذَا]{.ar} is generally used with verbs instead of [مَا]{.ar}.
 
-+ "'s": reverse order
-+ "of": keep same order
+[مَاذَا رَكِب؟ رَكِبَ الدَّرَّاجَة]{.ar}  
+"What he rode?" = "What did he ride?"  
+"He rode the bike."
 
-Translating from Arabic to English, sometimes you can use either "'s" or "of". For example, "the book of the man", and "the man's book" mean more or less the same thing. But to make it simple, we will use "of" for quantites (of foods for example) and materials.
+We can use [مَاذَا]{.ar} with prepositions before it.
 
-So we will [كِتَاب الرَّجُل]{.ar} as "the man's book" and keep "of" for "a cup of water" or "a piece of cake" or "the ring of gold" etc.
+[فِي مَاذَا وَضَعْتَ الكِتِاب؟ وَضَعْتُ الكِتَاب في الحَقِيبَة]{.ar}  
+"In what you put the book?" = "In what did you put the book?"  
+"I put the book in th ebag."
+
+[بِمَاذَا لَعِبَ الوَلَد؟ لَعِبَ الوَلَد بِالكُرَة.]{.ar}  
+"With what the boy played?" = "With what did the boy play?"  
+"The boy played with the ball."
+
+## [مَعَ]{.ar}
+
+We already learned the word [بِ]{.ar} which means "with".
+
+Arabic has another word [مَعَ]{.ar} which also means "with".
+
+[بِ]{.ar} is generally used if you do something with an object, e.g., you play _with_ a ball, you open a door _with_ a key.
 
 ::: {.infobox data-latex="{caution}"}
 **NOTE TO INSTRUCTOR**
 
-Consider [رأسُ رجلٍ كبيرٌ]{.ar}
+For now, we will not consider usages of the type:
 
-An idiomatic English translation is "the big head of a man". The "the" is because a man has only one head. But in Arabic [رأس]{.ar} is technically indefinite. So inorder to simplify the student, we sacrifice idiom for simplicity and instruct the student to translate as "A man's big head". By the way, we're not teaching adjective's with idaafah just yet, but we're thinking ahead and trying to stay simple and consistent.
+[ذَهَبَ بِالرَّجُل و جَاءَ بِه]{.ar}  
+"To take someone or bring someone to ..."
 :::
+
+[مَعَ]{.ar} is used when you do something _together with_ someone else. For example,
+
+[ذَهَبْتُ إِلَى المَدْرَسَة مَعَ زَيْد]{.ar}  
+"I went to the school with Zayd."
+
+[لَعِبَتْ البِنْت مَعَ زَيْنَب]{.ar}  
+"The girl played with Zaynab."
+
+[مَعَ]{.ar} can also be used in a question:
+
+[مَعَ مَنْ لَعِبْتَ؟]{.ar}  
+"With whom you played?" = "With whom did you play?"
 

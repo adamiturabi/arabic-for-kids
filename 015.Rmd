@@ -1,62 +1,41 @@
-# The possessive (Part I: 's)
+# Yes, no questions
 
-In English we can say 
+Here are "yes" and "no" in Arabic
 
-+ "a boy's book"
-+ "the woman's house"
-+ "Zayd's school"
+| English | Arabic |
+|:--------|:---------|
+|Yes  |[نَعَمْ]{.ar} |
+|No   |[لا]{.ar} |
 
-In Arabic we simply place the nouns together but we reverse the order of the two nouns. And only the second noun gets [ال]{.ar} for "the". Here are the Arabic for the above examples:
+A "yes-no" question is one whose answer is either "yes" or "no". For example,
 
-|Arabic | English |
-|:----------|:--------------|
-|[كِتَاب-وَلَد]{.ar}   |"a boy's book"       |
-|[بَيْت-المَرْأَة]{.ar} |"the woman's house"  |
-|[مَدْرَسَة-زَيْد]{.ar}  |"Zayd's school"      |
++ "Did you open the door?"
++ "Is the book heavy?"
 
-For now we will put a hyphen "-" between the words which are connected with "'s".
+In Arabic it is very easy to form these questions. You take a statement and put the word [هَلْ]{.ar} in front.
 
-::: {.infobox data-latex="{caution}"}
-**NOTE TO INSTRUCTOR**
+Statement:  
+[فَتَحْتَ البَاب.]{.ar}  
+"You opened the door."
 
-We're using a hyphen because two nouns can occur next to each other without being a possessive, e.g., [رَأَتْ أُمّ وَلَد]{.ar} which, without case endings can be either
+Question:
+[هَلْ فَتَحْتَ البَاب.]{.ar}  
+"Did you open the door?"
 
-+ "A woman saw a boy.", or
-+ "She saw a boy's mother."
+Statement:  
+[الكِتَاب ثَقِيل.]{.ar}  
+"The book is heavy."
 
-So without introducing case endings we think it will be easier to facilitate recognition of the possessive, at least where there is ambiguity.
-:::
+Question:  
+[هَلْ الكِتَاب ثَقِيل.]{.ar}  
+"Is the book heavy?"
 
-Also, we we say [مَدْرَسَة-زَيْد]{.ar} we will pronounce it [madrasat zayd]{.trn} not [madrasah zayd]{.trn}.
+When translating from Arabic to English, first ignore the word [هَلْ]{.ar} and translate with a questioning tone. Then reform the question into better English. For example:
 
-So when translating from Arabic to English, if you see two nouns together with a hyphen "-" between them, you should translate them with ('s).
+[هَلْ أَنْتَ قَرِيب؟]{.ar}  
+"You are near?"  
+"Are you near?"
 
-Start with last noun. if it has [ال]{.ar} then write "the". Then go backwards and connect nouns with ('s).
-
-[سَيَّارَة-الرُّجُل]{.ar}  
-"the man's car"
-
-[سَيَّارَة-رَجُل]{.ar}  
-"a man's car"
-
-[سَيَّارَة زَيْد]{.ar}  
-"Zayd's car"
-
-By the way we can add more nouns connected with "'s":
-
-[مِفْتَاح بَاب بَيْت رَجُل]{.ar}  
-"a man's house's door's key"
-
-[مِفْتَاح بَاب بَيْت الرَّجُل]{.ar}  
-"the man's house's door's key"
-
-Note that [ال]{.ar} is added only to the last noun.
-
-::: {.infobox data-latex="{caution}"}
-**NOTE TO INSTRUCTOR**
-
-It may be more idiomatic in English to say "The key of the door of the house of the man". But it will be hard to explain to the student how the multiple "the's" in English are translated.
-
-And in the next chapter, for simplicity, we will reserve "of" for quantities and materials.
-:::
-
+[هَلْ ذَهَبَ إِلَى البَيْت؟]{.ar}  
+"He went to the house?"  
+"Did he go to the house?"
