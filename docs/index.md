@@ -1,5 +1,6 @@
 ---
-title: "An Arabic course for non-native children"
+title: "Arabic for Kids"
+subtitle: "An Arabic course for non-native children"
 author: "A brother"
 documentclass: book
 geometry:
