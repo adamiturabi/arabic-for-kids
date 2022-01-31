@@ -1,9 +1,32 @@
 ---
 title: "An Arabic course for non-native children"
 author: "A brother"
+documentclass: book
+geometry:
+# A4 2 pages per sheet draft
+- paper=a5paper               # a5: 148.5 by 210mm
+# final
+#- paperwidth=156mm  #170mm
+#- paperheight=234mm #244mm
+- bindingoffset=4mm
+- textwidth=114.8mm           # = (170 - 6)*0.7
+- textheight=170.8mm          # = 244 * 0.7
+- twoside
+mainfont: Junicode
+mainfontoptions: Numbers=OldStyle
+fontsize: 10pt
+polyglossia-lang:
+  name: en
+polyglossia-otherlangs:
+  - name: arabic
+fontfamilies:
+  - name: \arabicfont
+    font: Scheherazade New
+    options: Script=Arabic,Scale=1.0
+csquotes: true
 output:
   bookdown::gitbook:
-    split_by: "section"
+    #split_by: "section"
     pandoc_args: ["--lua-filter=trn.lua"]
     keep_md: yes
     css: mystyle.css
@@ -19,7 +42,7 @@ output:
       download: null
       search: yes
       fontsettings:
-        theme: sepia
+        theme: white
         family: serif
         size: 2
       sharing:
@@ -32,12 +55,15 @@ output:
         vk: no
         all: ['facebook', 'twitter', 'linkedin', 'weibo', 'instapaper']
       info: yes
-  pdf_document:
-    pandoc_args: ["--lua-filter=trn.lua"]
+  bookdown::pdf_book:
+    number_sections: true
+    pandoc_args: ["--lua-filter=trn.lua", "--columns=65"] # for forcing word wrap in pipe tables
     latex_engine: xelatex
+    #template: default_latex_template.tex # with Brill font the PDF font is too large and this needs to be uncommented. includes and in_header should then be commented
+    includes:
+      in_header: "preamble.tex"
     keep_tex: true
-    template: bidi_art_templ.tex
-documentclass: book
+
 ---
 
 ```{r, setup, include=FALSE}
@@ -57,6 +83,8 @@ options(knitr.table.format = function() {
 :::
 
 This course aims to teach Arabic to non-native speaking school children.
+
+This is a work in progress and is currently incomplete. The development page is at: https://github.com/adamiturabi/arabic-for-kids
 
 ## Approach {-}
 
